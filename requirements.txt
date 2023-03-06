@@ -1,0 +1,6 @@
+cvzone==1.5.6
+matplotlib==3.3.3
+numpy==1.22.2
+opencv_python==4.5.5.64
+tensorflow==2.11.0
+tensorflow_gpu==2.10.1
